@@ -22,7 +22,7 @@ Evaluation:
 5. Movies based on genre (App page)
 
 
-Top 3:
+# Top 3:
 Country based trending movies
 
 1. Mobile: How uniquely mobile is the product experience?
@@ -81,4 +81,4 @@ Game Tournament Finder
   How clearly defined is the product you want to build?
 
 
-Final Choice: Country based trending movies
+# Final Choice: Country based trending movies
