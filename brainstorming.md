@@ -20,3 +20,26 @@ Evaluation:
 3. Globally trending movies (App page)
 4. Trending movies in USA (App page)
 5. Movies based on genre (App page)
+
+
+# Top Three App:
+
+1. Trendi: 
+- **Mobile:**
+    - The app provides a quick and easy way to view movie trends by country
+- **Story:**
+    - The story behind our application is to connect users of different cultures through filmography
+    - We believe that it would be a strong positive response
+- **Market:**
+    - The market realistically could encomapss the entire world as it is targeting movie goers from every country
+    - Yes! our app would be etremely useful for individuals interested in foreign films
+    - The audience for the app would be anyone interested in travel and filmography
+- **Habit:**
+    - Users would be encouraged to open the applicaiton often in order to find out what is the latest movie trend 
+    - The average user may use as an inspiration for their own film projects after viewing the  contents of the app
+- **Scope:**
+    - The app does not appear to be that difficult in developing. 
+    - A stripped down version of the app would still be interesting to develop
+    - We want this to be the go to app for trying to filnd good foreign films to further check out. (users would NOT be streaming form the app)
+  
+
