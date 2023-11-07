@@ -1,17 +1,18 @@
-movie website review
-# Brandon
+# Apps Review
+
+**Brandon**
 1. Movie critique rating (stars and text)
 2. Movie fan finder (find people with same movie interest for watching classic movies together). like a film club. or even someone to watch new movies with. ??needs GPS??
 3. Game Tournament finder. Find people to play video game tournaments with in person. 
 
 
-# Akrem 
+**Akrem** 
 1. Weather App- create an app that fetches weather data from wether API
 2. Based on the user's location(user-inputed) show a visualized represeantaion of the current weather.
 3. We can further display weather's condition like humdity, etc.
 
 
-# Sonu
+**Sonu**
 1. Pulls latest Movies using different movies APIs, and visualize it (optional: based on user's preference)
 2. Country based trending movie listing (App page/section?)
 3. Globally trending movies (App page)
@@ -21,7 +22,7 @@ movie website review
 
 # Top Three App:
 
-1. Trendi:
+1. **Trendi**:
 
 - **Mobile:**
     - The app provides a quick and easy way to view movie trends by country
@@ -45,7 +46,7 @@ movie website review
     - We want this to be the go to app for trying to filnd good foreign films to further check out. (users would NOT be streaming form the app)
 
   
-2. Movie Fan Finder:
+2. **Movie Fan Finder**:
 
 - **Mobile:**
     - The provides means to connect with cinephiles (movie lovers) like a global and local movie club but on phone!
@@ -67,7 +68,7 @@ movie website review
     - To make this application successful we have to work on things like database, GPS, and other security stuff which makes this project challenging to be completed in two weeks
 
 
- 3. Weather Watcher - weather App:
+ 3. **Weather Watcher App**:
 
 - **Mobile:**
     - Weather Watcher is your personal weather companion on your mobile device. Stay informed about the latest weather conditions, forecasts, and more, all at your fingertips.
@@ -86,20 +87,6 @@ movie website review
     - Developing a Weather Watcher entails handling API calls to provide accurate weather information, and incorporating features like location and weather-related information. This would be part of our scope with our course material, but this could be a generic idea.
 
 
-   
-
-3. Game Tournament Finder
-
-1. Mobile: How uniquely mobile is the product experience?
-  Users can reconnect with other gamers in real life
-2. Story:
-   Form memories and find new friends
-3. Market: 
-  This app is targeted towards gamer 
-4. Habit: How habit-forming or addictive is this app?
-  The app could be very habit forming depending on the user base and the popularity
-5. Scope: 
-  The app will be fairly difficult to build
-
-# Final Choice: Trendi (Country based trending movies)
+# Final Choice: 
+- **Trendi** (Country based trending movies)
 
