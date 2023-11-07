@@ -13,7 +13,7 @@ Time spent: **3** hours spent in total
 
 This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **provides Country based trending movie listing**
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **:man_student: :man_technologist: :baby_chick:**
 
 ## Milestone Requirements
 
