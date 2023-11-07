@@ -66,4 +66,20 @@ movie website review
     - The scope of this application is a little beyond our course material
     - To make this application successful we have to work on things like database, GPS, and other security stuff which makes this project challenging to be completed in two weeks
 
-    
+   
+
+3. Game Tournament Finder
+
+1. Mobile: How uniquely mobile is the product experience?
+  Users can reconnect with other gamers in real life
+2. Story:
+   Form memories and find new friends
+3. Market: 
+  This app is targeted towards gamer 
+4. Habit: How habit-forming or addictive is this app?
+  The app could be very habit forming depending on the user base and the popularity
+5. Scope: 
+  The app will be fairly difficult to build
+
+# Final Choice: Trendi (Country based trending movies)
+
