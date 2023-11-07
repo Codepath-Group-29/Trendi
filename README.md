@@ -39,6 +39,10 @@ The following BONUS features are implemented:
 
 - [x] Added digital wireframe/mockup image(s)
 
+
+## Wireframe
+
+
 <!-- The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve your submission! -->
