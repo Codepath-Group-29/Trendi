@@ -13,7 +13,7 @@ Time spent: **3** hours spent in total
 
 This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **provides Country based trending movie listing**
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
+If we had to describe this milestone in three (3) emojis, they would be: **:man_student: :man_technologist: :baby_chick:**
 
 ## Milestone Requirements
 
@@ -26,7 +26,7 @@ The following REQUIRED features are completed:
 
 The following REQUIRED files are included:
 
-- [ ] Included 📄 `brainstorming.md`, which contains:
+- [x] Included 📄 `brainstorming.md`, which contains:
   - [x] Our initial brainstorming ideas (6+ ideas)
   - [x] 5-category evaluation of our top 3 ideas
   - [x] Final app idea chosen
@@ -38,12 +38,11 @@ The following REQUIRED files are included:
 The following BONUS features are implemented:
 
 - [x] Added digital wireframe/mockup image(s)
-- [ ] Added a Video/GIF of an interactive prototype
 
-The following EXTRA features are implemented:
+<!-- The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+- [ ] List anything else that you added to improve your submission! -->
 
-## Notes
+<!-- ## Notes
 
-Here's a place for any other notes on this milestone!
+Here's a place for any other notes on this milestone! -->
