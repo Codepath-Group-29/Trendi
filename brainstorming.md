@@ -66,6 +66,26 @@ movie website review
     - The scope of this application is a little beyond our course material
     - To make this application successful we have to work on things like database, GPS, and other security stuff which makes this project challenging to be completed in two weeks
 
+
+ 3. Weather Watcher - weather App:
+
+- **Mobile:**
+    - Weather Watcher is your personal weather companion on your mobile device. Stay informed about the latest weather conditions, forecasts, and more, all at your fingertips.
+
+- **Story:**
+    - Weather Watcher was born out of the desire to provide users with an intuitive and reliable way to access weather information. Whether you're planning a weekend getaway or just want to know if you need an umbrella today, Weather Watcher has you covered.
+
+- **Market:**
+    - Our application caters to a vast and ever-growing market of users who rely on accurate weather information. Unlike generic weather apps, Weather Watcher focuses on delivering a user-friendly experience with real-time updates, making it an essential tool for everyone from daily commuters to adventure seekers.
+
+- **Habbit:**
+    - Weather Watcher becomes your go-to app for weather updates. Users can check the current conditions, hourly and daily forecasts, and even set personalized alerts for specific weather events. It's not about addiction, but rather a dependable resource that users can turn to whenever they need to plan their day or week.
+
+
+- **Scope:**
+    - Developing a Weather Watcher entails handling API calls to provide accurate weather information, and incorporating features like location and weather-related information. This would be part of our scope with our course material, but this could be a generic idea.
+
+
    
 
 3. Game Tournament Finder
