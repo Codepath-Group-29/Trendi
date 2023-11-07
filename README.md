@@ -39,6 +39,10 @@ The following BONUS features are implemented:
 
 - [x] Added digital wireframe/mockup image(s)
 
+
+## Wireframe
+<img src="wireframe_prototype.png" alt="Markdown Monster icon" width='250' style="float: left; margin-right: 10px;" />
+
 <!-- The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve your submission! -->
