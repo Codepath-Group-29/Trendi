@@ -74,9 +74,11 @@ Required Feature
 ## Wireframes
 
 <!-- Add picture of your hand sketched wireframes in this section -->
-<img src="https://imgur.com/XrNfcE5" width=600>
+<img src="Screenshot 2023-11-06 211656.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+
+https://www.figma.com/file/8YmDvX2TSmRqP2lj1VcB8r/Untitled?type=design&node-id=0%3A1&mode=design&t=f3w235fIahNNwnmm-1
 
 ### [BONUS] Interactive Prototype
 
