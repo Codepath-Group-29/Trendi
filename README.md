@@ -41,7 +41,7 @@ The following BONUS features are implemented:
 
 
 ## Wireframe
-
+<img src="wireframe_prototype.png" alt="Markdown Monster icon" width='250' style="float: left; margin-right: 10px;" />
 
 <!-- The following EXTRA features are implemented:
 
