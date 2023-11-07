@@ -25,60 +25,46 @@ Evaluation:
 # Top 3:
 Country based trending movies
 
-1. Mobile: How uniquely mobile is the product experience?
-  What makes your app more than a glorified website?
-2. Story: How compelling is the story around this app once completed?
-  How clear is the value of this app to your audience?
-  How well would your friends or peers respond to this product idea?
-3. Market: How large or unique is the market for this app?
-  What's the size and scale of your potential user base?
-  Does this app provide huge value to a niche group of people?
-  Do you have a well-defined audience of people for this app?
-4. Habit: How habit-forming or addictive is this app?
-  How frequently would an average user open and use this app?
-  Does an average user just consume your app, or do they use it to create something?
-5. Scope: How well-formed is the scope for this app?
-  How technically challenging will it be to complete this app by the deadline?
-  Is a stripped-down version of this app still interesting to build?
-  How clearly defined is the product you want to build?
+1. Mobile:
+  Our app provides a quick and easy way to view movie trends by country
+2. Story:
+  The story behind our application is to connect users of different cultures through filmography. We believe that it would be a strong positive response
+3. Market:
+  The market realistically could encomapss the entire world as it is targeting movie goers from every country
+  yes! our app would be etremely useful for individuals interested in foreign films
+  The audience for the app would be anyone interested in travel and filmography
+4. Habit:
+  Users would be encouraged to open the applicaiton often in order to find out what is the latest movie trend
+  The average user may use as an inspiration for their own film projects after viewing the contents of the app
+5. Scope:
+  The app does not appear to be that difficult in developing.
+  A stripped down version of the app would still be interesting to develop
+  We want this to be the go to app for trying to filnd good foreign films to further check out. (users would NOT be streaming form the app)
 
 Movie Critique Rating
 
-1. Mobile: How uniquely mobile is the product experience?
-  What makes your app more than a glorified website?
-2. Story: How compelling is the story around this app once completed?
-  How clear is the value of this app to your audience?
-  How well would your friends or peers respond to this product idea?
-3. Market: How large or unique is the market for this app?
-  What's the size and scale of your potential user base?
-  Does this app provide huge value to a niche group of people?
-  Do you have a well-defined audience of people for this app?
-4. Habit: How habit-forming or addictive is this app?
-  How frequently would an average user open and use this app?
-  Does an average user just consume your app, or do they use it to create something?
-5. Scope: How well-formed is the scope for this app?
-  How technically challenging will it be to complete this app by the deadline?
-  Is a stripped-down version of this app still interesting to build?
-  How clearly defined is the product you want to build?
+1. Mobile: 
+  Not that unique
+2. Story:
+  There is no compelling story
+4. Market: How large or unique is the market for this app?
+  The market size is nearly every movie goer
+5. Habit: How habit-forming or addictive is this app?
+  It is not habit forming
+6. Scope: How well-formed is the scope for this app?
+  The app will be fairly technically challenging and would not function well stripped down
 
 Game Tournament Finder
 
 1. Mobile: How uniquely mobile is the product experience?
-  What makes your app more than a glorified website?
-2. Story: How compelling is the story around this app once completed?
-  How clear is the value of this app to your audience?
-  How well would your friends or peers respond to this product idea?
-3. Market: How large or unique is the market for this app?
-  What's the size and scale of your potential user base?
-  Does this app provide huge value to a niche group of people?
-  Do you have a well-defined audience of people for this app?
+  Users can reconnect with other gamers in real life
+2. Story:
+   Form memories and find new friends
+3. Market: 
+  This app is targeted towards gamer 
 4. Habit: How habit-forming or addictive is this app?
-  How frequently would an average user open and use this app?
-  Does an average user just consume your app, or do they use it to create something?
-5. Scope: How well-formed is the scope for this app?
-  How technically challenging will it be to complete this app by the deadline?
-  Is a stripped-down version of this app still interesting to build?
-  How clearly defined is the product you want to build?
-
+  The app could be very habit forming depending on the user base and the popularity
+5. Scope: 
+  The app will be fairly difficult to build
 
 # Final Choice: Country based trending movies
