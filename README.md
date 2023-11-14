@@ -38,7 +38,9 @@ Here's a video that demos all of the app's implemented features:
 
 https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702
 
+## Gif
 
+<img src="Trendi.gif" title='Image Demo' width='250' alt='Image Demo' />
 
 ## Notes
 
