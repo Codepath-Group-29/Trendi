@@ -36,7 +36,12 @@ The following REQUIRED files are included:
 
 Here's a video that demos all of the app's implemented features:
 
-https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702
+https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702 
+
+
+https://github.com/Codepath-Group-29/Trendi/assets/72036463/c89a341a-c299-4cf9-833b-bc12df3fbe50
+
+
 
 ## Gif
 
