@@ -36,7 +36,8 @@ The following REQUIRED files are included:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='Trendi.mkv' title='Video Demo' width='' alt='Video Demo' />
+https://github.com/Codepath-Group-29/Trendi/assets/87947158/5e39570a-b60b-461a-8ce7-da7759d01702
+
 
 
 ## Notes
